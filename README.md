@@ -7,5 +7,5 @@ $ pkg install python
 $ pkg install git
 $ git clone https://github.com/Zuck-Ker/premium
 $ cd premium
-$ python prem.py
+$ python main.py
 ```
